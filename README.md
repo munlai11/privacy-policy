@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Just Pick Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/munlai11/privacy-policy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page lists the types of information that we collect from our users and shows what exactly we use that information for. We want to make sure you are aware of it so that you always see the whole picture of your interaction with us. Please read this Privacy Policy in full as by installing our extension or visiting our website you express your acceptance of the practices we list here. If you have any questions about this Privacy Policy, don’t hesitate to contact our Support service.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What type of information does Just Pick collect?
 
-### Markdown
+‍Just Pick doesn't store any user data on its own servers. We utilize the industry standard third party Google Analytics service to collect certain information about our visitors to better understand their experience. These information include the users' time spent on our site, session length and frequency, return rate, technical information such as browser type, version, screen resolution and more. We don't collect any device identifier or personal information, IP addresses are anonymized before transmitted. Every information that is collected is highly encrypted.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What does Just Pick do with the information collected?
 
-```markdown
-Syntax highlighted code block
+‍‍We look at the aggregated usage statistics to better understand where Just Pick needs improving, monitor overall speed issues, error rates. We look at what devices, browsers and resolutions to support. We consider language and other locale information to determine what possible localizations would be most useful to our users.
 
-# Header 1
-## Header 2
-### Header 3
+### Usage
 
-- Bulleted
-- List
+‍The above mentioned data we collect will be used to improve the user experience of Just Pick in general. All the data we collect are handled by the service of Google analytics. We are never sharing your data with any third party.
 
-1. Numbered
-2. List
+### Permissions
 
-**Bold** and _Italic_ and `Code` text
+‍‍Just Pick requires a certain amount of permissions so you can enjoy its full potential. For security reasons we use the narrowest permissions available to still provide you the full functionality. These permissions are: activeTab - to determine the products on the Amazon page and storage - to save settings
 
-[Link](url) and ![Image](src)
-```
+### Duration
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+‍‍Data may be kept indefinitely.
 
-### Jekyll Themes
+### How do I opt out?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/munlai11/privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+‍‍‍You can opt out of the Google Analytics service. Other than that you can always opt out by uninstalling our software.
 
-### Support or Contact
+### Commerce
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+‍‍‍‍Your personal identifiable data is never bartered or sold for commercial gain.
+
+### Advertising
+
+‍‍‍‍‍Your personal data is never given to advertisers.
+
